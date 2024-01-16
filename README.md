@@ -1,0 +1,1 @@
+Used R and several models to predict if someone is suffereng or can encounter abnormal physical conditions based on their bio-mechanical features such as the Pelvic tilt. Optimised the model and brought up the accuracy upto 96%
